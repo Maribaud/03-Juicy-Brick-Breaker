@@ -1,7 +1,7 @@
-# Project Name
-Juicy Brick Breaker
+# Juicy Brick Breaker
 
-Description
+
+# Description
 I tried to cram the entire project into a couple days and realized I was in over my head. 
 
 ## Implementation
