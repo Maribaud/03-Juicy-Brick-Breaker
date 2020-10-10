@@ -1,6 +1,15 @@
-# Godot-Project-Template
+# Project Name
+Juicy Brick Breaker
 
-This is an empty Godot project that can be used as a starting place for Godot repositories. After creating and cloning the repository, download this as a zip file. Unzip it and copy the files into the repository folder. You should then be able to import the project.godot file (in the repository folder) as a project in Godot. Make sure you change the project name in the Project Settings.
+Description
+I tried to cram the entire project into a couple days and realized I was in over my head. 
 
 ## Implementation
-Created in Godot 3.2.2
+A moving paddle, ball and bricks
+## References
+https://www.kenney.nl/assets/puzzle-pack
+
+## Future Development
+
+## Created by
+Mark Ribaudo
